@@ -1,2 +1,1 @@
-# Checklist
-Examples of checklists
+![Image alt](https://github.com/{AleksandrSargaev/Checklist)
